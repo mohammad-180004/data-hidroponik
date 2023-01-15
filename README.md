@@ -25,3 +25,6 @@ Untuk menambahkan library: Tools > Manage Libraries
 Untuk menambahkan library perangkat: Tools > Boards > Boards Manager
 - ESP32 by Espressif System
 - ESP8266 by ESP8266 Community
+
+## 3. Flowchart Cara Kerja Program
+Tautan: https://s.id/flowchart-program-iot-hidroponik
